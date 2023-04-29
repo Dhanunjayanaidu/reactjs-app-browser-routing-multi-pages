@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactjs-app-browser-routing-multi-pages/static/css/main.e6c13ad2.css",
+    "main.js": "/reactjs-app-browser-routing-multi-pages/static/js/main.8c9f7f50.js",
+    "static/js/787.4e5f8b91.chunk.js": "/reactjs-app-browser-routing-multi-pages/static/js/787.4e5f8b91.chunk.js",
+    "index.html": "/reactjs-app-browser-routing-multi-pages/index.html",
+    "main.e6c13ad2.css.map": "/reactjs-app-browser-routing-multi-pages/static/css/main.e6c13ad2.css.map",
+    "main.8c9f7f50.js.map": "/reactjs-app-browser-routing-multi-pages/static/js/main.8c9f7f50.js.map",
+    "787.4e5f8b91.chunk.js.map": "/reactjs-app-browser-routing-multi-pages/static/js/787.4e5f8b91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8c9f7f50.js"
+  ]
+}
